@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding_margin">16dp</dimen>
+    <dimen name="component_padding_margin">8dp</dimen>
+    <dimen name="header_text_size">24sp</dimen>
+    <dimen name="input_text_size">12sp</dimen>
+    <dimen name="lv_text_size">20sp</dimen>
+</resources>
